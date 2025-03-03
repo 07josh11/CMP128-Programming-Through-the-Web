@@ -1,5 +1,7 @@
 body{
 background-color:purple;
-color: #ffffff;
-  
+color: #ffffff;  
+}
+#myButton{
+  color: #000;
 }
