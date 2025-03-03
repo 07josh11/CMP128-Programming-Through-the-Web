@@ -1,8 +1,9 @@
 body{
-background-color:'purple';
+background-color: purple;
 color: #ffffff;  
 }
 #myButton{
   color: #000;
-  
+  height:100px;
+  width:300px; 
 }
